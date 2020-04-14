@@ -1,0 +1,16 @@
+{
+  "name": "facebook_ad_campaign",
+  "version": "1.0.0",
+  "description": "This is for fb add campaign",
+  "main": "fb_ad.js",
+  "scripts": {},
+  "author": "vikas_sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "facebook-nodejs-ads-sdk": "^2.11.4",
+    "facebook-nodejs-business-sdk": "^6.0.2"
+  }
+}
